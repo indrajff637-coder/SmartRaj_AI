@@ -4,4 +4,10 @@ SmartRaj AI ek free AI app hai jo aapko chat karne, future typing suggestions, p
 2. App open kare → Splash screen dikhega  
 3. Home screen me AI chat + media features use kare
 4. Created by Raj
-5. 
+5. White background
+
+Black brain icon
+
+Right side 2-line Modern Bold text
+Smart Raj
+AI
